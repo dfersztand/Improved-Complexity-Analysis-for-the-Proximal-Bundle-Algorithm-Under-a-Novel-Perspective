@@ -1,0 +1,42 @@
+colon-cancer --- number of features = 2001 || number of samples = 62
+
+------------------------------------
+colon-cancer
+  0.597254 seconds (737.69 k allocations: 51.277 MiB, 5.53% gc time, 97.44% compilation time)
+time = 0.6094369888305664 s
+duke --- number of features = 7130 || number of samples = 44
+
+------------------------------------
+duke
+  0.030350 seconds (42 allocations: 6.805 MiB)
+time = 0.05458998680114746 s
+leu --- number of features = 7130 || number of samples = 38
+
+------------------------------------
+leu
+  0.022396 seconds (41 allocations: 5.771 MiB)
+time = 0.022459983825683594 s
+gisette_scale --- number of features = 4956 || number of samples = 6000
+
+------------------------------------
+gisette_scale
+ 78.354793 seconds (57 allocations: 495.286 MiB, 0.00% gc time)
+time = 78.35510206222534 s
+ijcnn1 --- number of features = 23 || number of samples = 49990
+
+------------------------------------
+ijcnn1
+1700.576054 seconds (10.04 k allocations: 20.996 MiB, 0.00% gc time)
+time = 1700.5763711929321 s
+
+WARNING: reaching max number of iterations
+skin_nonskin --- number of features = 4 || number of samples = 245057
+
+------------------------------------
+skin_nonskin
+1047.690479 seconds (14.67 k allocations: 26.052 MiB)
+time = 1047.6908061504364 s
+covtype --- number of features = 55 || number of samples = 581012
+
+------------------------------------
+covtype
